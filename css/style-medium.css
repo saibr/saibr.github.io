@@ -16,6 +16,10 @@
 		font-size: 2em;
 	}
 
+	header.major h3 {
+		font-size: 1.5em;
+	}
+
 	header.major p {
 		font-size: 1.1em;
 	}
